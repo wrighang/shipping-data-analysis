@@ -12,8 +12,8 @@ This project reviews the impact on transit times after a key logistical change w
 - Identify any spikes or dips in transit times and analyze trends across different periods and years to gain insights into seasonal and operational variations.
 
 ## Data Source
--  [Resources Folder](.resources): CSV files containing details on outbound shipments, carrier costs, and transit times from 2015 to 2018.
--  [Output Folder](.output): CSV files from the inital analysis from the data in the resources folder and paring the data down to focus on the outbound transit times. 
+-  [Resources Folder](https://github.com/wrighang/shipping-data-analysis/tree/main/resources): CSV files containing details on outbound shipments, carrier costs, and transit times from 2015 to 2018.
+-  [Output Folder](https://github.com/wrighang/shipping-data-analysis/tree/main/output): CSV files from the inital analysis from the data in the resources folder and paring the data down to focus on the outbound transit times. 
 
 ## Technical Skills
 Programming Languages:
